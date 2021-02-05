@@ -1,29 +1,3 @@
-### …or create a new repository on the command line
-
-
-
-```
-echo "# notes" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/junshiWeb/notes.git
-git push -u origin main
-```
-
-### …or push an existing repository from the command line
-
-
-
-```
-git remote add origin https://github.com/junshiWeb/notes.git
-git branch -M main
-git push -u origin main
-```
-
-
-
 **首先我们的了解**Git通常的操作流程，网上流行的不错一张图👇
 
 ![Git经典流程图](${img}/a1d538d63559402fbcfd82d68b08061c_tplv-k3u1fbpfcp-zoom-1.image)
@@ -95,7 +69,7 @@ git config --list
 git config --local --list
 ```
 
-- 列出全局配置
+- 列出全局配置ar
 
 ```bash
 git config --global --list

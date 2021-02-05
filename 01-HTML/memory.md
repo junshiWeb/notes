@@ -13,8 +13,8 @@
   - download
   - href
   - target
-    - _blank 空白
-    - parent 父亲
+    - _blank
+    - parent
     - self
     - top
 - img   src  alt
@@ -36,7 +36,7 @@
     - file 文件
     - password 
     - radio 单选框
-    - range 滑动条
+    - range 范围
     - reset 重置
     - search 搜索
     - submit  提交
