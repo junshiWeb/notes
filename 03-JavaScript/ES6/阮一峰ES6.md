@@ -1151,4 +1151,4 @@ ES6 的模块自动采用严格模式，不管你有没有在模块头部加上`
 
 [Decorator](https://es6.ruanyifeng.com/#docs/decorator)
 
-[参考链接](https://es6.ruanyifeng.com/#docs/reference)
+- [参考链接](https://es6.ruanyifeng.com/#docs/reference)
